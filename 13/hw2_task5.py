@@ -20,4 +20,3 @@ print('*',line1,' ' * (ls1) ,'*')
 print('*',line2,' ' * (ls2) ,'*')
 print('*',line3,' ' * (ls3) ,'*')
 print('*' * (width_frame + 4))
-
